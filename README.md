@@ -7,6 +7,7 @@
 
 Here are some ideas to get you started:
 
+Cybersecurity Analyst at Tata Consulatancy services
 - 🔭 I’m currently working on IDS(Intrusion Detection System) 
 - 🌱 I’m currently learning ... Flutter, Data Transformation
 - 💬 Ask me about ... Android Development
